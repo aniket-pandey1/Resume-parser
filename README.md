@@ -66,19 +66,19 @@ def main():
             'communication_skills': 'good'
         },
         {
-            'name': 'Tatta',
+            'name': 'Jatta',
             'skills': ['C++', 'machine learning', 'communication skills'],
             'experience': 1,
             'communication_skills': 'excellent'
         },
         {
-            'name': 'Suresh',
+            'name': 'Sumesh',
             'skills': ['Html', 'deep learning', 'communication skills'],
             'experience': 4,
             'communication_skills': 'better'
         },
         {
-            'name': 'Dravid',
+            'name': 'David',
             'skills': ['python', 'data visualization', 'communication skills','java'],
             'experience': 5,
             'communication_skills': 'better'
@@ -90,7 +90,7 @@ def main():
             'communication_skills': 'good'
         },
          {
-            'name': 'Soumyta',
+            'name': 'Soumya',
             'skills': ['python', 'data visualization', 'communication skills','deep learning'],
             'experience': 9,
             'communication_skills': 'excellent'
