@@ -28,7 +28,6 @@ def find_best_candidate(job_requirements, candidate_profiles):
             best_score = score
 
     return best_candidate
-#printing best candidate for the job
 
 def print_candidate(candidate):
     if candidate:
